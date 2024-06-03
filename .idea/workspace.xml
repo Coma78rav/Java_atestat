@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="03668ff9-2b2e-444a-985b-9450a40b0c09" name="Changes" comment="" />
+    <list default="true" id="03668ff9-2b2e-444a-985b-9450a40b0c09" name="Changes" comment="PhoneBook END" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,9 +24,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.PhoneBook.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/GB/IDEA/Java_atestat",
     "onboarding.tips.debug.path": "D:/GB/IDEA/Java_atestat/Java_atestat/src/Main.java"
   }
 }]]></component>
@@ -36,17 +42,36 @@
       <option name="presentableId" value="Default" />
       <updated>1717437068774</updated>
     </task>
+    <task id="LOCAL-00001" summary="PhoneBook">
+      <option name="closed" value="true" />
+      <created>1717437296697</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717437296697</updated>
+    </task>
+    <task id="LOCAL-00002" summary="PhoneBook">
+      <option name="closed" value="true" />
+      <created>1717437306668</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717437306669</updated>
+    </task>
+    <task id="LOCAL-00003" summary="PhoneBook END">
+      <option name="closed" value="true" />
+      <created>1717438876779</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717438876779</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="PhoneBook" />
+    <MESSAGE value="PhoneBook END" />
+    <option name="LAST_COMMIT_MESSAGE" value="PhoneBook END" />
   </component>
 </project>
